@@ -1,0 +1,31 @@
+Electrical Week 3 - 4 Task list
+
+@Electrical
+
+Here's a quick review on what we should try to get done in the next week or so to the best of our abilitles.
+
+Erick
+* Create power systems design to start delegating research and component selection tasks to all members
+* After some more reading on power design, Here are my current thoughts on the design:
+	1. 12v -> 6v Switching Regulator for a power efficient voltage drop
+	2. 6v -> 5v LDO for a low noise 5v rail to build smaller voltages from. Power loss is not a big issue here since step down is small
+	3. 5v -> 3.3, 1.8 etc as needed using single Multi-channel PMIC DC/DC converter or Seperate LDOs
+* Current requirements are important, how many amps or milliamps are expected to be drawn for each voltage rail?
+	1. Take into consideration nominal and peak operation current draws for all peripherals (motors, sensors, etc)
+	2. Once IC's for controller board are more solidified this might be something we need to turn back to.  
+
+Once I have a system in mind and everyone is synced with the files I will start assigning everyone sub-circuits to start working on.
+
+@Miles and @Ryan
+
+Lets try and set up a 30 minute discord call in the evening this week so that I can get you set up with Altium, Github, and Inventhub
+	1. Download Altium + Sign up for student license
+	2. Download Github Desktop + Create account
+	3. Create Inventhub account
+
+@sandeep
+
+Since I have you synced with altium files now just get familiar with the software at the moment. Feel free to add any random components
+and get a feel for the process. Dont worry about accidentlaly deleting or messing something up, its all a learning process. 
+
+
