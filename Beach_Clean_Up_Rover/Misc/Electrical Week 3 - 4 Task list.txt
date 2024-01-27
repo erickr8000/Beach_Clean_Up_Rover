@@ -19,9 +19,10 @@ Once I have a system in mind and everyone is synced with the files I will start 
 @Miles and @Ryan
 
 Lets try and set up a 30 minute discord call in the evening this week so that I can get you set up with Altium, Github, and Inventhub
-	1. Download Altium + Sign up for student license
-	2. Download Github Desktop + Create account
-	3. Create Inventhub account
+	1. Download Altium + Sign up for student license https://www.altium.com/education/students
+	2. Download Github Desktop + Create account https://desktop.github.com/
+	3. Create Inventhub account https://inventhub.io/c/signup 
+I will get you synced across all three and do a github desktop how-to since it will be important to understand 
 
 @sandeep
 
