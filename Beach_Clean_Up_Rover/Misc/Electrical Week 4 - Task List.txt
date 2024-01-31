@@ -1,0 +1,26 @@
+Electrical Week 4 - Task List
+
+Erick
+* Should we implement github branches for proper version control? Allows everyone to manage their own branch, then merge to main as needed
+* Create Battery charging system design
+	* Battery connected should not need to be disconnected or swapped to another pin
+	* Possible transistor design
+* Is it okay if we supply the 5 motors from a 12V buck converter line?
+* Decide between PMIC or multiple LDOS
+* Figure out all voltages that we absolutely need for peripherals, 
+	* other circuitry we can figure out later
+* Send each member quick youtube video on how to choose their respective component
+
+Miles
+* Research 3 6V to 5V LDOs that will be sufficient for our current design (Use digikey/mouser for filter research)
+* How many devices are going to use 5v?
+	* What are each of their devices current requirements both nominally and peak
+
+Sandeep
+* Research 3 buck converter ICs that require >12V inout voltage and output 6V
+* DOes the ouput current of the buck converter affect the output currents of its cascaded LDOS? 
+	* IF 6v 1A output, then is the 6v -> 5v LDO constrained to 1A maximum??
+* Need new battery, over 12V and over 3000maH
+
+Ryan
+* Buck converter Battery Voltage (>12V) to a 12V line
