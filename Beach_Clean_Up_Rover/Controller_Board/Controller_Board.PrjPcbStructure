@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=connectors(temp).SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=connectors(temp).SchDoc|FileName=Controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=connectors(temp).SchDoc|FileName=IMU_sensors.SchDoc|SheetNumber=3
