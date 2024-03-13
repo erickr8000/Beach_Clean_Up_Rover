@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\Erick-School\Desktop\Obsidian Knowledge\Engineering\Projects\PCB Projects\Beach_Clean_Up_Rover\Beach_Clean_Up_Rover\Controller_Board\Project Outputs\Pick Place for Controller_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/03/24
+Time:       11:11
+Revision:   18a1c2f930dd21101b85a2eaff4c445c82c8ee40
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description          
+IC?        ICM-42670-P    TopLayer ICM42670P                        3261.055      1315.496      0        "Integrated Circuit" 
+IC?        ICM-20948      TopLayer QFN40P300X300X105-25N-D          3336.000      924.000       0        "Integrated Circuit" 
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     3605.008      1001.000      0        Capacitor            
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     3022.016      840.181       0        Capacitor            
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     3039.008      1010.000      0        Capacitor            
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     2994.063      652.268       0        Capacitor            
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     3599.484      834.276       0        Capacitor            
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     3048.000      1169.984      0        Capacitor            
+C?         02013A0R5CAT2A TopLayer CAPC0603X33N                     3572.000      1208.000      0        Capacitor            
+AC?        LSM303D        TopLayer PQFN50P300X300X100-16N           3263.008      1614.866      0        Accelerometer        
+J?         5444262        TopLayer SHDR2W80P0X381_1X2_901X920X740P  2391.000      413.000       0        Connector            
+J?         5444262        TopLayer SHDR2W80P0X381_1X2_901X920X740P  923.000       369.000       0        Connector            
+J?         PH1-06-UA      TopLayer HDRV6W64P0X254_1X6_1524X250X952P 132.412       2007.564      90       Connector            
+J?         5444262        TopLayer SHDR2W80P0X381_1X2_901X920X740P  118.000       1271.000      90       Connector            
+J?         5444262        TopLayer SHDR2W80P0X381_1X2_901X920X740P  1564.000      391.000       0        Connector            
+J?         PH1-06-UA      TopLayer HDRV6W64P0X254_1X6_1524X250X952P 4389.000      1972.000      90       Connector            
+J?         5023820670     TopLayer 5023820670                       2452.850      2378.520      180      Connector            
+J?         5444262        TopLayer SHDR2W80P0X381_1X2_901X920X740P  4400.480      1226.142      270      Connector            
+IC?        STM32H757IIT6  TopLayer QFP50P2600X2600X160-176N         2192.024      1475.102      0        "Integrated Circuit" 
